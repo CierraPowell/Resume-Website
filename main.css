@@ -1,27 +1,32 @@
 body{ <!-- set body style-->
-  font-family: courier, Arial;
+  font-family: courier;
   background-color: purple;
   }
 
 .wrapper{ <!-- set style for wrapper-->
-  width:1000px;
+  width:800px;
   background-color: violet;
-  padding:20px;
+  padding:30px;
   margin:auto;
 }
 
 .header{ <!--set style for header-->
-  width:960px;
+  width:800px;
   height: 100px;
-  padding:20px;
+  padding:30px;
   text-align:center;
   border-bottom: 1px black solid;
 }  
 
+.mainContent{ <!--set main content-->
+  width:500px;
+  padding:30px;
+  text-align: center;
+} 
+
 .footer { <!-- set footer style-->
-    width: 1000px;
+    width: 800px;
     height: 50px;
     border-top: solid black 1px;
     text-align: center;
-
 } 
