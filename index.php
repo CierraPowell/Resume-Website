@@ -1,9 +1,8 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Cierra Powell Resume</title>
-<link rel="stylesheet" href="main.css"> <!--link to css-->
+<link rel="stylesheet" href="main.css">
 
 </head>
 
@@ -12,12 +11,12 @@
     <?php include 'header.php';?>
    
 
- <div class="wrapper"> <!--pulling wrap styles-->
+ <div class="wrapper"> 
 
     <div class="contentWrapper">
 
         <div id="photo">
-            <img src="cierrapowell.jpg" width="200px">
+            <img src="cierrapowell.jpg" alt="Cierra" width="200px">
         </div>  
 
         <div class="navigation">
@@ -101,12 +100,14 @@
           <h2>Mississippi Gulf Coast Community College</h2>
           <p>Hotel and Restaurant Management, <em>2011 - 2015</em></p>
         </div>  
-
+      
+      
+      <?php include 'footer.php';?> 
+    
     </div>
-
+    
  </div>
  
- <?php include 'footer.php';?> 
-
 </body>
+
 </html>
