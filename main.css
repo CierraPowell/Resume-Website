@@ -21,6 +21,7 @@ body{ /* set body style */
 
 .mainContent{ /* set main content */
   width:500px;
+  margin:auto;
   padding:30px;
   text-align: center;
 } 
