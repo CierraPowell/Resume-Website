@@ -1,16 +1,16 @@
-body{ <!-- set body style-->
+body{ /* set body style */
   font-family: courier;
   background-color: purple;
   }
 
-.wrapper{ <!-- set style for wrapper-->
+.wrapper{ /* set style for wrapper */
   width:800px;
   background-color: violet;
   padding:30px;
   margin:auto;
 }
 
-.header{ <!--set style for header-->
+.header{ /* set style for header */
   width:800px;
   height: 100px;
   padding:30px;
@@ -18,13 +18,13 @@ body{ <!-- set body style-->
   border-bottom: 1px black solid;
 }  
 
-.mainContent{ <!--set main content-->
+.mainContent{ /* set main content */
   width:500px;
   padding:30px;
   text-align: center;
 } 
 
-.footer { <!-- set footer style-->
+.footer {  /* set footer style */
     width: 800px;
     height: 50px;
     border-top: solid black 1px;
