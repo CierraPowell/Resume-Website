@@ -12,6 +12,7 @@ body{ /* set body style */
 
 .header{ /* set style for header */
   width:800px;
+  margin:auto;
   height: 100px;
   padding:30px;
   text-align:center;
